@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b4e7ee7-bbbe-41a9-812a-502e685d0e29" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="HTML File" />
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\golang" />
+  <component name="ProjectId" id="1a7KlflGIRwsCWkbX1LWQaS2TLf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../goGin" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GoWorks\src\goWeb\parseForm\MultipartForm" />
+      <recent name="E:\GoWorks\src\goWeb\goServer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GoWorks\src\goWeb\parseForm" />
+      <recent name="E:\GoWorks\src\goWeb" />
+      <recent name="E:\GoWorks\src\goWeb\getRequestHeader" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build goWeb/ResponseWriter">
+    <configuration name="go build goWeb/MultipartForm" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goWeb" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/MultipartForm/MultipartForm.go" />
+      <package value="goWeb/MultipartForm" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build goWeb/ResponseWriter" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goWeb" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/ResponseWriter/ResponseWriter.go" />
+      <package value="goWeb/ResponseWriter" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build goWeb/parseForm" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goWeb" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/parseForm/parseForm.go" />
+      <package value="goWeb/parseForm" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build goWeb/parseForm/MultipartForm" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goWeb" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/parseForm/MultipartForm/MultipartForm.go" />
+      <package value="goWeb/parseForm/MultipartForm" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build goWeb/upLoadFile" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goWeb" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/upLoadFile/upLoadFile.go" />
+      <package value="goWeb/upLoadFile" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build goWeb/ResponseWriter" />
+        <item itemvalue="Go Build.go build goWeb/upLoadFile" />
+        <item itemvalue="Go Build.go build goWeb/parseForm" />
+        <item itemvalue="Go Build.go build goWeb/parseForm/MultipartForm" />
+        <item itemvalue="Go Build.go build goWeb/MultipartForm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Go_Modules_(vgo)" timestamp="1586515761774">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Go_Modules_(vgo)/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1586515761774" />
+    <state x="1794" y="64" key="#go_build_goWeb/goServer" timestamp="1586159779673">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1794" y="64" key="#go_build_goWeb/goServer/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1586159779673" />
+    <state x="453" y="149" key="FileChooserDialogImpl" timestamp="1587440998442">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="453" y="149" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1587440998442" />
+    <state x="453" y="149" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586138647112" />
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1586870601865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1586870601865" />
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1586166096056" />
+    <state width="1286" height="151" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586144252302" />
+    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1586870601865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1586870601865" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1586166096056" />
+    <state width="1286" height="151" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586144252302" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1586870601865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1586870601865" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1586166096056" />
+    <state width="1286" height="151" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586144252301" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1586870601865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1586870601865" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1586166096056" />
+    <state width="1286" height="151" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586144252302" />
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom" timestamp="1586161182567">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1586161182567" />
+    <state width="1397" height="276" key="GridCell.Tab.1.center" timestamp="1586161182567">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1586161182567" />
+    <state width="1397" height="276" key="GridCell.Tab.1.left" timestamp="1586161182567">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1586161182567" />
+    <state width="1397" height="276" key="GridCell.Tab.1.right" timestamp="1586161182567">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1586161182567" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1586517374143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1586517374143" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/chainingHandle/handle.go</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
